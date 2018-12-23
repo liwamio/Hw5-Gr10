@@ -13,8 +13,10 @@ This directory has two files:
 &emsp;`functions.py`: a file containing the algorithms for the homework. 
 
 some files have not been uploaded due to their big size:
+- the dictionary of categories cleaned (>= 3500 articles)
+- the dictionary of the ten categories, which we will use to find the shortest path
 - the dictionary output of the shortest path algorithm
-- the dictionary of the categories
+
 
 Participant's name: **Gabriele Macchi** , **Liwam Andom** 
 

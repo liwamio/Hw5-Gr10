@@ -14,7 +14,7 @@ This directory has two files:
 
 some files have not been uploaded due to their big size:
 - the dictionary of categories cleaned (>= 3500 articles)
-- the dictionary of the ten categories, which we will use to find the shortest path
+- the dictionary of ten categories, which we will use to find the shortest path
 - the dictionary output of the shortest path algorithm
 
 
